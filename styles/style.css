@@ -9,6 +9,16 @@ body {
 
 /* Common styles Start */
 
+
+
+/* 
+
+vaiya ami bujhte parini 80% view niye design korchi,
+Plz bisoita dekhben.
+
+
+*/
+
 .btn-primary {
     font-size: 20px;
     font-weight: 700;
@@ -48,13 +58,13 @@ body {
     gap: 70px;
     align-items: center;
     justify-content: space-around;
-    padding: 40px 100px 0px 100px;
+    padding: 40px 180px 0px 180px;
     margin-bottom: 150px;
 }
 
 .banner-title {
     color: #272727;
-    font-size: 60px;
+    font-size: 64px;
     font-weight: 800;
     margin-bottom: 25px;
 }
@@ -200,3 +210,16 @@ body {
     font-weight: 400;
 }
 /* Footer Styles End */
+
+
+/* bonus Part */
+.bonus-container{
+    max-width: 1440px;
+    margin: auto;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.bonus-content {
+    margin-bottom: 125px;
+
+}
+
