@@ -120,10 +120,41 @@ body {
     text-align: center;
     margin-top: 10px;
 }
+
+/* Instagram Styles Start */
 .instagram-images{
     max-width: 1440px;
-    margin: 40px auto 140px auto;
+    margin: 40px auto 125px auto;
 }
 .in-image{
     margin-right: 15px;
+}
+
+/* Instagram Styles End */
+
+/* Latest Deals Styles Start */
+
+.latest-deals-container{
+    height: 450px;
+    max-width: 1440px;
+    margin: auto auto 125px auto;
+    background-image:url(/styles/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+
+    
+}
+.latest-deals-title{
+    padding: 125px 0px 0px 0px;
+}
+.email-input{
+    background-color: #fff;
+    width: 70vh;
+    border: none;
+    border-radius: 8px;
+    padding: 20px;
+    margin-right: 15px;
+}
+.input-content{
+    display: flex;
+    justify-content: center;
 }
