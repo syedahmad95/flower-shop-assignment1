@@ -45,16 +45,16 @@ body {
 
 .banner-container {
     display: flex;
-    gap: 97px;
+    gap: 70px;
     align-items: center;
     justify-content: space-around;
-    padding: 40px 180px 0px 180px;
+    padding: 40px 100px 0px 100px;
     margin-bottom: 150px;
 }
 
 .banner-title {
     color: #272727;
-    font-size: 64px;
+    font-size: 60px;
     font-weight: 800;
     margin-bottom: 25px;
 }
@@ -141,7 +141,7 @@ body {
     height: 450px;
     max-width: 1440px;
     margin: auto auto 125px auto;
-    background-image: url(/styles/Rectangle\ 9.png);
+    background-image: url(./bg.png);
     background-repeat: no-repeat;
 
 
