@@ -103,7 +103,8 @@ body {
     justify-content: space-between;
     padding: 80px 300px 80px 200px;
 }
-.hot-deal-content{
+
+.hot-deal-content {
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -116,17 +117,19 @@ body {
     text-align: center;
     margin-bottom: 10px;
 }
-.hot-deal-description{
+
+.hot-deal-description {
     text-align: center;
     margin-top: 10px;
 }
 
 /* Instagram Styles Start */
-.instagram-images{
+.instagram-images {
     max-width: 1440px;
     margin: 40px auto 125px auto;
 }
-.in-image{
+
+.in-image {
     margin-right: 15px;
 }
 
@@ -134,19 +137,21 @@ body {
 
 /* Latest Deals Styles Start */
 
-.latest-deals-container{
+.latest-deals-container {
     height: 450px;
     max-width: 1440px;
     margin: auto auto 125px auto;
-    background-image:url(/styles/Rectangle\ 9.png);
+    background-image: url(/styles/Rectangle\ 9.png);
     background-repeat: no-repeat;
 
-    
+
 }
-.latest-deals-title{
+
+.latest-deals-title {
     padding: 125px 0px 0px 0px;
 }
-.email-input{
+
+.email-input {
     background-color: #fff;
     width: 70vh;
     border: none;
@@ -154,7 +159,44 @@ body {
     padding: 20px;
     margin-right: 15px;
 }
-.input-content{
+
+.input-content {
     display: flex;
     justify-content: center;
 }
+
+/* Latest Deals Styles End */
+
+
+/* Footer Styles Start */
+
+.footer-container {
+    height: 445px;
+    background-color: black;
+}
+.footer-content{
+    padding: 125px 0;
+}
+
+.footer-title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.copy-rights {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* Footer Styles End */
