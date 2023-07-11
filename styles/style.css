@@ -64,7 +64,7 @@ body {
 /* Our Featured Section Styles Start */
 
 .featured-container {
-    max-width: 1400px;
+    max-width: 1440px;
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -119,4 +119,11 @@ body {
 .hot-deal-description{
     text-align: center;
     margin-top: 10px;
+}
+.instagram-images{
+    max-width: 1440px;
+    margin: 40px auto 140px auto;
+}
+.in-image{
+    margin-right: 15px;
 }
